@@ -1,0 +1,34 @@
+h2{
+    color: hotpink;
+    font-style: normal;
+    text-align: center;
+}
+p{
+    color: rgb(56, 56, 56);
+    font-style: oblique;
+}
+button{
+    color: hotpink;
+   border: none;
+   border-radius: 10%;
+   cursor: pointer;
+}
+img{
+    width: 500px;
+}
+body{ 
+    background-color: rgb(255, 255, 255);
+}
+form{
+    width: 10%;
+    margin: auto;
+    padding: 30px;
+    background-color: rgb(221, 221, 221);
+    border-radius: 10%;
+    box-shadow: 0 0 10px hotpink;
+    border: cornsilk;
+}
+a{
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+}
